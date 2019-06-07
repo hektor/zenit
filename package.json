@@ -1,0 +1,29 @@
+{
+  "name": "zenit-hyper",
+  "version": "1.0.0",
+  "description": "Zenit theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hektormisplon/zenit.git"
+  },
+  "keywords": [
+    "Zenit",
+    "Themes",
+    "Cool",
+    "Blue"
+  ],
+  "author": "hektor misplon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hektormisplon/zenit/issues"
+  },
+  "homepage": "https://github.com/hektormisplon/zenit#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "xo": "^0.24.0"
+  }
+}
