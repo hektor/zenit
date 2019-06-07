@@ -17,3 +17,8 @@ plugins: [
 ### Update
 
 In Hyper simply go to `Plugins > Update`
+
+
+### More info
+
+vscode extension coming soon.
