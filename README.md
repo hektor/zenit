@@ -1,4 +1,22 @@
-# Zenit for [Hyper](https://hyper.is)
+## Zenit for [VS Code](https://code.visualstudio.com/)
+
+### Setup
+
+***Zenit is not yet available for VSCode***
+
+1. `cmd/ctrl+p
+2. `enter ext install zenit`
+3. - `cmd/ctrl+k` 
+   - `cmd/ctrl+t` 
+   - `select Zenit`
+
+Manual Install
+
+1. `cd ~/.vscode/extensions`
+2. `git clone https://github.com/hektormisplon/zenit.git zenit`
+
+
+## Zenit for [Hyper](https://hyper.is)
 
 ### Setup
 
